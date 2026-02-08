@@ -1,0 +1,7 @@
+{
+  "name": "Portal de Jóvenes - Gestión Espiritual",
+  "description": "Una plataforma integral para el seguimiento de jóvenes en la iglesia, control de cumpleaños y monitoreo del crecimiento espiritual con asistencia de IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
